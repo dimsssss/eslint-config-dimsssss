@@ -4,7 +4,7 @@ module.exports = {
 		"browser": false
   },
 	"parserOptions": {
-		"ecmaVersion": "es2016",
+		"ecmaVersion": 8,
 		"sourceType": "module"
 	},
 	"rules": {
