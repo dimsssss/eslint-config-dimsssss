@@ -1,0 +1,19 @@
+{
+  "name": "@dimsssss/eslint-config-dimsssss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint --fix
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimsssss/eslint-config-dimsssss.git"
+  },
+  "author": "dimsssss <dimsss0607@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimsssss/eslint-config-dimsssss/issues"
+  },
+  "homepage": "https://github.com/dimsssss/eslint-config-dimsssss#readme"
+}
