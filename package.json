@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dimsssss/eslint-config-dimsssss/issues"
   },
-  "homepage": "https://github.com/dimsssss/eslint-config-dimsssss#readme"
+  "homepage": "https://github.com/dimsssss/eslint-config-dimsssss#readme",
+  "dependencies": {
+    "eslint": "^8.42.0"
+  }
 }
