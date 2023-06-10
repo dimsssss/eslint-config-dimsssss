@@ -8,7 +8,7 @@ module.exports = {
 		"sourceType": "module"
 	},
 	"rules": {
-		"eqeqeq": "warning"
+		"eqeqeq": "warning",
 		"semi": ["error", "always"]
 	}
 }
